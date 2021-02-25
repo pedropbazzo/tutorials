@@ -1,5 +1,5 @@
 
-The "REST with Spring" Classes
+ The "REST with Spring" Classes
 ==============================
 
 Here's the Master Class of REST With Spring (along with the newly announced Boot 2 material): <br/>
